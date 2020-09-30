@@ -5,3 +5,8 @@ Hacktoberfest is a massive online event hosted by DigitalOcean every year in Oct
 Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.
 
 This is a community-run initiative to help bridge the OSS and Handshake development communities, unaffiliated with DigitalOcean.
+
+
+
+
+Template: [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
